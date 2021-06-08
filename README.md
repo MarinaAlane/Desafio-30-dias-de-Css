@@ -14,8 +14,11 @@ do [Leon Carvalho](https://github.com/leon-carvalho/30-dias-css).
 
 
 ## Dia 2 - Loading animado
+![Dia 2](https://j.gifs.com/mqwMkG.gif)
 
 ## Dia 3 - Mudando cor de texto ao mudar de Div
+![Dia 3](https://j.gifs.com/Pj15G4.gif)
+
 
 ## Dia 4 - Botão com efeito 
 
