@@ -33,6 +33,8 @@ do [Leon Carvalho](https://github.com/leon-carvalho/30-dias-css).
 
 ## Dia 11 - Checkbox
 
-## Dia 12 - block-reveal
+## Dia 12 - Block-reveal
+
+## Dia 13 - Animação com texto alternado
 
 
