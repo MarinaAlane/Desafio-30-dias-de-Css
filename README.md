@@ -26,19 +26,27 @@ do [Leon Carvalho](https://github.com/leon-carvalho/30-dias-css).
 ![Dia 5](https://j.gifs.com/36lK0R.gif)
 
 ## Dia 6 - Efeito lightning text
+![Dia 6](https://j.gifs.com/qQjMXp.gif)
 
 ## Dia 7 - Pre Loading
+![Dia 7](https://j.gifs.com/x6G7N3.gif)
 
 ## Dia 8 - Coração Pulsando
+![Dia 8](https://j.gifs.com/Rlg50O.gif)
 
 ## Dia 9 - Barra de Pesquisa
+![Dia 9](https://j.gifs.com/16jBnV.gif)
 
 ## Dia 10 - Book 3D
+![Dia 10](https://j.gifs.com/mqwMn9.gif)
 
 ## Dia 11 - Checkbox
+![Dia 11](https://j.gifs.com/BrgR2k.gif)
 
 ## Dia 12 - Block-reveal
+![Dia 12](https://j.gifs.com/XQ6kR5.gifcd)
 
 ## Dia 13 - Animação com texto alternado
+![Dia 12](https://j.gifs.com/468YJV.gif)
 
 
