@@ -19,10 +19,11 @@ do [Leon Carvalho](https://github.com/leon-carvalho/30-dias-css).
 ## Dia 3 - Mudando cor de texto ao mudar de Div
 ![Dia 3](https://j.gifs.com/Pj15G4.gif)
 
-
 ## Dia 4 - Botão com efeito 
+![Dia 4](https://j.gifs.com/K8O5Bx.gif)
 
 ## Dia 5 - Pulsar
+![Dia 5](https://j.gifs.com/36lK0R.gif)
 
 ## Dia 6 - Efeito lightning text
 
