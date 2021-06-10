@@ -44,9 +44,11 @@ do [Leon Carvalho](https://github.com/leon-carvalho/30-dias-css).
 ![Dia 11](https://j.gifs.com/BrgR2k.gif)
 
 ## Dia 12 - Block-reveal
-![Dia 12](https://j.gifs.com/XQ6kR5.gifcd)
+![Dia 12](https://j.gifs.com/XQ6kR5.gif)
 
 ## Dia 13 - Animação com texto alternado
-![Dia 12](https://j.gifs.com/468YJV.gif)
+![Dia 13](https://j.gifs.com/468YJV.gif)
 
+## Dia 14 - Máquina de escrever 
+![Dia 14](https://j.gifs.com/x6Gz5P.gif)
 
