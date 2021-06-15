@@ -1,0 +1,149 @@
+
+
+input {
+  position: absolute;
+  display: none;
+}
+
+h1 {
+  margin-top: 22%;
+  margin-left: 20%;
+  color: #dd8740;
+}
+.menu {
+  position: absolute;
+  top: 40%;
+  left: 70%;
+}
+
+.btn {
+  width: 70px;
+  height: 70px;
+  border-radius: 70px;
+  position: absolute;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.material-icons.md-36 {
+  font-size: 36px;
+  color: #dd8740;
+}
+
+.btn {
+  background: #eceff1;
+  font-size: 15px;
+  display: grid;
+  place-items: center;
+  place-content: center;
+  transition: all 0.2s cubic-bezier(0.25, 0.5, 0.25, 1);
+}
+
+.btn:not(:first-child) {
+  opacity: 0;
+  z-index: -2;
+}
+
+.btn:nth-child(2) {
+  top: 0px;
+  transition-delay: 0s;
+}
+
+.btn:nth-child(3) {
+  top: 0px;
+  left: 0px;
+  transition-delay: 0.1s;
+}
+
+.btn:nth-child(4) {
+  left: 0px;
+  transition-delay: 0.2s;
+}
+
+.btn:nth-child(5) {
+  top: 0px;
+  left: 0px;
+  transition-delay: 0.3s;
+}
+.btn:nth-child(6) {
+  top: 0px;
+  transition-delay: 0.4s;
+}
+.btn:nth-child(7) {
+  top: 0px;
+  left: 0px;
+  transition-delay: 0.5s;
+}
+.btn:nth-child(8) {
+  left: 0px;
+  transition-delay: 0.6s;
+}
+.btn:nth-child(9) {
+  top: 0px;
+  left: 0px;
+  transition-delay: 0.7s;
+}
+
+input#toggle:checked ~ #show-menu .btn:nth-child(1) {
+  top: -150px;
+  opacity: 1;
+}
+
+input#toggle:checked ~ #show-menu .btn:nth-child(3) {
+  top: -100px;
+  left: 100px;
+  opacity: 1;
+}
+
+input#toggle:checked ~ #show-menu .btn:nth-child(4) {
+  left: 150px;
+  opacity: 1;
+}
+
+input#toggle:checked ~ #show-menu .btn:nth-child(5) {
+  top: 100px;
+  left: 100px;
+  opacity: 1;
+}
+
+input#toggle:checked ~ #show-menu .btn:nth-child(6) {
+  top: 150px;
+  opacity: 1;
+}
+
+input#toggle:checked ~ #show-menu .btn:nth-child(7) {
+  top: 100px;
+  left: -100px;
+  opacity: 1;
+}
+
+input#toggle:checked ~ #show-menu .btn:nth-child(8) {
+  left: -150px;
+  opacity: 1;
+}
+
+input#toggle:checked ~ #show-menu .btn:nth-child(9) {
+  top: -100px;
+  left: -100px;
+  opacity: 1;
+}
+
+.menuBtn, .closeBtn {
+  position: absolute;
+  transition: all 0.3s ease;
+}
+
+.closeBtn {
+  transform: translateY(50px);
+  opacity: 0;
+}
+
+input#toggle:checked ~ #show-menu .btn .menuBtn {
+  transform: translateY(-50px);
+  opacity: 0;
+}
+
+input#toggle:checked ~ #show-menu .btn .closeBtn {
+  transform: translateY(0px);
+  opacity: 1;
+}
